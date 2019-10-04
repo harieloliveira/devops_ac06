@@ -7,7 +7,5 @@ def test_valorPagamento1():
 
 def test_valorPagamento2():
 	assert valorPagamento(80, 10) == 90.4, "Should be 90,4"
-
-
 def test_valorPagamento3():
 	assert valorPagamento(120, 0) == 120, "Should be 120"
