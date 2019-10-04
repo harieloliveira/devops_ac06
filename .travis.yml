@@ -7,4 +7,4 @@ before_install:
   - pip install -U pytest
   - pip install -U pytest-cov
 script:
-  - pytest --cov=com.devops_ac06 com/ac06/test/
+  - pytest --cov=com.ac06 com/ac06/test/
