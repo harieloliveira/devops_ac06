@@ -1,4 +1,3 @@
-import pytest
 from com.ac5.conta_corrente import ContaCorrente
 
 conta_corrente = ContaCorrente(1, "Mateo Pallini", 0.0)
